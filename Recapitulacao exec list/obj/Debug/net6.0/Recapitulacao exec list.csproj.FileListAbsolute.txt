@@ -1,0 +1,15 @@
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\bin\Debug\net6.0\Recapitulacao exec list.exe
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\bin\Debug\net6.0\Recapitulacao exec list.deps.json
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\bin\Debug\net6.0\Recapitulacao exec list.runtimeconfig.json
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\bin\Debug\net6.0\Recapitulacao exec list.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\bin\Debug\net6.0\Recapitulacao exec list.pdb
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\obj\Debug\net6.0\Recapitulacao exec list.csproj.AssemblyReference.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\obj\Debug\net6.0\Recapitulacao exec list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\obj\Debug\net6.0\Recapitulacao exec list.AssemblyInfoInputs.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\obj\Debug\net6.0\Recapitulacao exec list.AssemblyInfo.cs
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\obj\Debug\net6.0\Recapitulacao exec list.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\obj\Debug\net6.0\Recapitulacao exec list.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\obj\Debug\net6.0\refint\Recapitulacao exec list.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\obj\Debug\net6.0\Recapitulacao exec list.pdb
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\obj\Debug\net6.0\Recapitulacao exec list.genruntimeconfig.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec list\Recapitulacao exec list\obj\Debug\net6.0\ref\Recapitulacao exec list.dll
